@@ -3,3 +3,5 @@ build/
 *.out
 *.exe
 *.o
+*.log
+*.DS_Store
